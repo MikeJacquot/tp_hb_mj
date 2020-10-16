@@ -11,7 +11,7 @@ body {
 .ml1 .letter {
   display: inline-block;
   line-height: 1em;
-  color: blue;
+  color: orangered;
 }
 
 .ml1 .text-wrapper {
